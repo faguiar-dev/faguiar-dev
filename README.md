@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Fernanda Aguiar 👋
 
-<!--
-**faguiar-dev/faguiar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Quality Assurance Engineer focused on test automation, API validation and scalable testing strategies.
 
-Here are some ideas to get you started:
+Currently working with:
+- Selenium (Java)
+- Cypress
+- API Testing (Postman / REST)
+- TestNG
+- CI/CD fundamentals
+- Risk-Based Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I focus on
+
+- Building reliable automation frameworks
+- Reducing flaky tests through proper synchronization
+- Designing maintainable test architecture
+- Improving product quality through structured testing strategies
+
+## 📚 Currently expanding my knowledge in
+
+- Artificial Intelligence applied to Software Engineering
+- Advanced Test Architecture
+- Cloud & DevOps fundamentals
+
+## 🌎 Career Goal
+
+Open to remote international opportunities in QA / SDET roles.
+
+---
+
+📫 Connect with me:
+- LinkedIn: https://www.linkedin.com/in/fernanda-carolina-aguiar-363885291/
+- Email: fernandacarolina.dev@gmail.com
