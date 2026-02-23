@@ -30,5 +30,5 @@ Open to remote international opportunities in QA / SDET roles.
 ---
 
 📫 Connect with me:
-- LinkedIn: https://www.linkedin.com/in/fernanda-carolina-aguiar-363885291/
+- LinkedIn: https://www.linkedin.com/in/faguiar-dev/
 - Email: fernandacarolina.dev@gmail.com
